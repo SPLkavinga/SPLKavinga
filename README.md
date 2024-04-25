@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/lahirukavinga" target="blank"><img src="https://img.shields.io/twitter/follow/lahirukavinga?logo=twitter&style=for-the-badge" alt="lahirukavinga" /></a> </p>
 
-- 🌱 I’m currently learning ** java,python,PHP,mongoDD,mysql,Nodejs**
+- 🌱 I’m currently learning  java,python,PHP,mongoDD,mysql,Nodejs
 
-- 📫 How to reach me ** lahiru.20211349@iit.ac.lk**
+- 📫 How to reach me  lahiru.20211349@iit.ac.lk
 
-- ⚡ Fun fact ** coder,tech enthusiast and love to watch sc-fi series**
+- ⚡ Fun fact  coder,tech enthusiast and love to watch sc-fi series
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
