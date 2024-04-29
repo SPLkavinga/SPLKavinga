@@ -15,7 +15,7 @@
 - ⚡ Fun fact   coder,tech enthusiast and love to watch sc-fi series
 
 <h3 align="left">Connect with me:</h3>
-<hr><p align="left">
+<p align="left">
 <a href="https://twitter.com/lahirukavinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahirukavinga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lahiru-kavinga-902006278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lahiru-kavinga-902006278/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/lahiru_v46?igsh=mwmwagz2awz1mjhtmg%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lahiru_v46?igsh=mwmwagz2awz1mjhtmg%3d%3d&utm_source=qr" height="30" width="40" /></a>
